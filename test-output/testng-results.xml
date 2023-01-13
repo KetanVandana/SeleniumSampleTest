@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-25T21:10:18Z" name="Default suite" finished-at="2022-12-25T21:10:18Z" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2022-12-25T21:10:18Z" name="Default test" finished-at="2022-12-25T21:10:18Z" duration-ms="34">
+      <class name="PriorityConcept">
+        <test-method signature="bTest()[pri:0, instance:PriorityConcept@a1cdc6d]" started-at="2022-12-25T21:10:18Z" name="bTest" finished-at="2022-12-25T21:10:18Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method signature="cTest()[pri:0, instance:PriorityConcept@a1cdc6d]" started-at="2022-12-25T21:10:18Z" name="cTest" finished-at="2022-12-25T21:10:18Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTest -->
+        <test-method signature="aTest()[pri:1, instance:PriorityConcept@a1cdc6d]" started-at="2022-12-25T21:10:18Z" name="aTest" finished-at="2022-12-25T21:10:18Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method signature="dTest()[pri:2, instance:PriorityConcept@a1cdc6d]" started-at="2022-12-25T21:10:18Z" name="dTest" finished-at="2022-12-25T21:10:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dTest -->
+        <test-method signature="eTest()[pri:3, instance:PriorityConcept@a1cdc6d]" started-at="2022-12-25T21:10:18Z" name="eTest" finished-at="2022-12-25T21:10:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eTest -->
+      </class> <!-- PriorityConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
